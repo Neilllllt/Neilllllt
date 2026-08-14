@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ang 👋
 
-<!--
-**Neilllllt/Neilllllt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at McGill University with experience in
+backend development, automotive software, and full-stack development.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Java, Python, SQL, JavaScript
+- Backend: Spring Boot, REST APIs, PostgreSQL, MySQL
+- Frontend: React.js, HTML/CSS
+- Tools: Git, GitHub, IntelliJ, VS Code, AWS
+- Other: UML, software testing, sensor integration
+
+## Featured Projects
+
+### 🚗 Automotive Security System
+Developed software for an electric pickup truck security system using Java,
+Python, radar, cameras, and object-detection outputs.
+
+### 🎮 Online Game Store
+Built a full-stack online game store using Java, Spring Boot, PostgreSQL,
+Vue.js, and JUnit.
+
+### 📦 WareFlow Warehouse Management System
+Developed a warehouse management web application using Java, SQL,
+HTML/CSS, GitHub, and BDD testing.
+
+## Interests
+
+I'm particularly interested in software engineering, backend development,
+fintech, and scalable systems.
+
+## Contact
+
+- LinkedIn: [Ang Li](YOUR-LINKEDIN-URL)
+- Email: your@email.com
