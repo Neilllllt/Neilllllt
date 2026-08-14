@@ -1,36 +1,40 @@
 # Hi, I'm Ang 👋
 
-I'm a Software Engineering student at McGill University with experience in
-backend development, automotive software, and full-stack development.
+I'm a Software Engineering Co-op student at McGill University with experience
+in Java backend development, automotive software, APIs, and AI integration.
 
-## Technical Skills
+## 💻 Technical Skills
 
-- Languages: Java, Python, SQL, JavaScript
-- Backend: Spring Boot, REST APIs, PostgreSQL, MySQL
-- Frontend: React.js, HTML/CSS
-- Tools: Git, GitHub, IntelliJ, VS Code, AWS
-- Other: UML, software testing, sensor integration
+**Languages:** Java, Python, C, Bash, SQL, JavaScript  
+**Backend:** Spring, MySQL, PostgreSQL, REST APIs  
+**Frontend:** React.js, HTML/CSS  
+**Tools:** Git, IntelliJ IDEA, VS Code, AWS Amplify  
+**Software Design:** UML, State Machine Modeling
 
-## Featured Projects
+## 🚀 Experience
 
-### 🚗 Automotive Security System
-Developed software for an electric pickup truck security system using Java,
-Python, radar, cameras, and object-detection outputs.
+### Riddara — Java Intern
+`Java` `APIs` `YOLO` `Sensor Integration` `Git`
 
-### 🎮 Online Game Store
-Built a full-stack online game store using Java, Spring Boot, PostgreSQL,
-Vue.js, and JUnit.
+- Developed Java application logic for an electric pickup truck's outdoor
+  security system.
+- Integrated radar, camera, and object-detection outputs for real-time
+  security functions.
+- Collaborated with software and perception teams on technical requirements
+  and development.
 
-### 📦 WareFlow Warehouse Management System
-Developed a warehouse management web application using Java, SQL,
-HTML/CSS, GitHub, and BDD testing.
+### 36Kr — Java Backend Development Intern
+`Java` `Spring` `MySQL` `Git` `AI/NLP`
 
-## Interests
+- Developed secure backend interfaces and APIs.
+- Built an AI-integrated API module for automated company-name recognition.
+- Developed and optimized CRUD APIs for article and comment management.
+- Used Git for branching, code reviews, and merge requests.
 
-I'm particularly interested in software engineering, backend development,
-fintech, and scalable systems.
+## 🎯 Interests
 
-## Contact
+Backend Engineering • Fintech • Distributed Systems • AI Applications
 
-- LinkedIn: [Ang Li](YOUR-LINKEDIN-URL)
-- Email: your@email.com
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ang-li5)
